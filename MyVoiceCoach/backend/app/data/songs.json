@@ -1,0 +1,90 @@
+[
+  {
+    "id": "taeyeon_fine",
+    "title": "Fine",
+    "artist": "태연 (Taeyeon)",
+    "bpm": 76,
+    "key": "F#m",
+    "difficulty": "medium",
+    "genre": "ballad",
+    "vocal_range": {"low": "A3", "high": "E5"},
+    "scale_notes": ["F#", "G#", "A", "B", "C#", "D", "E"]
+  },
+  {
+    "id": "iu_celebrity",
+    "title": "Celebrity",
+    "artist": "아이유 (IU)",
+    "bpm": 110,
+    "key": "G",
+    "difficulty": "easy",
+    "genre": "pop",
+    "vocal_range": {"low": "G3", "high": "D5"},
+    "scale_notes": ["G", "A", "B", "C", "D", "E", "F#"]
+  },
+  {
+    "id": "bts_dynamite",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "bpm": 114,
+    "key": "B",
+    "difficulty": "easy",
+    "genre": "pop",
+    "vocal_range": {"low": "F#3", "high": "C#5"},
+    "scale_notes": ["B", "C#", "D#", "E", "F#", "G#", "A#"]
+  },
+  {
+    "id": "leemunsae_invitation",
+    "title": "그대에게",
+    "artist": "이문세",
+    "bpm": 72,
+    "key": "C",
+    "difficulty": "medium",
+    "genre": "ballad",
+    "vocal_range": {"low": "G3", "high": "E5"},
+    "scale_notes": ["C", "D", "E", "F", "G", "A", "B"]
+  },
+  {
+    "id": "blackpink_lovesick",
+    "title": "Lovesick Girls",
+    "artist": "BLACKPINK",
+    "bpm": 110,
+    "key": "Am",
+    "difficulty": "medium",
+    "genre": "kpop",
+    "vocal_range": {"low": "A3", "high": "E5"},
+    "scale_notes": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  {
+    "id": "naul_memory",
+    "title": "기억을 걷는 시간",
+    "artist": "나얼",
+    "bpm": 68,
+    "key": "Dm",
+    "difficulty": "hard",
+    "genre": "rnb",
+    "vocal_range": {"low": "A3", "high": "F5"},
+    "scale_notes": ["D", "E", "F", "G", "A", "A#", "C"]
+  },
+  {
+    "id": "edsheeran_shape",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "bpm": 96,
+    "key": "C#m",
+    "difficulty": "easy",
+    "genre": "pop",
+    "vocal_range": {"low": "G#3", "high": "D#5"},
+    "scale_notes": ["C#", "D#", "E", "F#", "G#", "A", "B"]
+  },
+  {
+    "id": "bohemian_rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "bpm": 72,
+    "key": "Bb",
+    "difficulty": "hard",
+    "genre": "rock",
+    "vocal_range": {"low": "F3", "high": "G5"},
+    "scale_notes": ["A#", "C", "D", "D#", "F", "G", "A"]
+  }
+]
